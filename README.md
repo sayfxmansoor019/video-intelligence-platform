@@ -1,4 +1,4 @@
-# 🎥 Video Transcription & Metadata Annotation System
+# 🎥 Video Intelligence Platform
 
 ## Problem Statement
 
