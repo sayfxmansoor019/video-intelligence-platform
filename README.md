@@ -1,5 +1,12 @@
 # 🎥 Video Transcription & Metadata Annotation System
 
+## Problem Statement
+
+Organizations generate large volumes of recorded meetings, interviews, customer interactions, and training sessions. While transcripts capture spoken content, they often fail to provide insight into participant emotions, delivery style, confidence, engagement, and conversational dynamics.
+
+This project addresses that challenge by combining speech recognition, emotion analysis, delivery assessment, reaction annotation, and summarization into a unified video intelligence pipeline that transforms raw recordings into actionable conversational insights.
+
+
 ## 📌 Overview
 This project is a Video Intelligence system that processes recorded video calls and produces:
 - Timestamped speech transcription
