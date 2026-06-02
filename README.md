@@ -22,19 +22,19 @@ The system is built using Python, Streamlit, and pretrained speech models, and i
 ## 🏗️ System Architecture
 
 Video Upload
-↓
+->
 Audio Extraction (MoviePy)
-↓
+->
 Speech Transcription (SpeechBrain ASR)
-↓
+->
 Emotion Analysis (Wav2Vec2 Emotion Model)
-↓
+->
 Delivery Nuance Analysis
-↓
+->
 Reaction Annotation (Text-based)
-↓
+->
 LLM-based Summarization
-↓
+->
 Final JSON Output + Streamlit UI
 
 
